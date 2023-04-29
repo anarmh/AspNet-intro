@@ -1,0 +1,28 @@
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\bin\Debug\net6.0\appsettings.Development.json
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\bin\Debug\net6.0\appsettings.json
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\bin\Debug\net6.0\AspNet intro.exe
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\bin\Debug\net6.0\AspNet intro.deps.json
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\bin\Debug\net6.0\AspNet intro.runtimeconfig.json
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\bin\Debug\net6.0\AspNet intro.dll
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\bin\Debug\net6.0\AspNet intro.pdb
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.csproj.AssemblyReference.cache
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.AssemblyInfoInputs.cache
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.AssemblyInfo.cs
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.csproj.CoreCompileInputs.cache
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\staticwebassets\msbuild.AspNet intro.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNet intro.props
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNet intro.props
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNet intro.props
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\staticwebassets.build.json
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\staticwebassets.development.json
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\scopedcss\bundle\AspNet intro.styles.css
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.dll
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\refint\AspNet intro.dll
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.pdb
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.genruntimeconfig.cache
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\ref\AspNet intro.dll
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.RazorAssemblyInfo.cache
+D:\Asp.net\Asp.net  intro\AspNet intro\AspNet intro\obj\Debug\net6.0\AspNet intro.RazorAssemblyInfo.cs

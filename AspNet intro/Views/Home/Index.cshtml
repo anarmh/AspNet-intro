@@ -1,0 +1,32 @@
+﻿@*h1> Hello Anar   </h1>    
+<h1>Hello Tunar</h1>
+<h1>Hello Elnar</h1>
+<p style="color:red">Salamlar</p>
+<script>Console.log("This is a js")</script>*@
+@*@for (int i = 0; i < 10; i++)
+{
+    <h1> Hello Anar   </h1>
+}*@
+@model int[]
+
+<ul>
+    @foreach (var item in Model)
+    {
+       <li>@item</li>
+    }
+</ul>
+@{
+
+    List<string> names = new List<string>() { "Anar", "Tunar", "Elnar" };
+    string baseStr = "Welcome";
+}
+
+
+@for (int i = 0; i < names.Count; i++)
+{
+    <h1>@(names[i]+"-"+baseStr)</h1>
+}
+@foreach (var item in names)
+{
+    <h1>@item- @baseStr</h1>
+}      
